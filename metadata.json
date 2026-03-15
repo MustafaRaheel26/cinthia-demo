@@ -1,0 +1,7 @@
+{
+  "name": "SmartCafe Demo",
+  "description": "A professional Restaurant SaaS platform demo for management and discovery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
